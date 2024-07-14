@@ -1,4 +1,4 @@
-#Microservices Application using Java Spring Boot
+# Microservice-Application-Using-SpringBoot-Java-EurekaServer
 
 This repository contains a microservices application built with Java Spring Boot, leveraging Eureka for service discovery, Feign Client, WebClient, and RestTemplate for inter-service communication, and Spring Cloud Gateway for API gateway functionality. The application also utilizes centralized configuration stored in Git.
 
@@ -32,7 +32,7 @@ This repository contains a microservices application built with Java Spring Boot
 *ConfigService (configserver): Manages Central Configuration from GIT Repo.
 
 #Prerequisites
-Java 11 or higher
-Maven 3.6.x or higher
+ Java 11 or higher
+ Maven 3.6.x or higher
 Git client
-IDE (IntelliJ IDEA, Eclipse, etc.)# Microservice-Application-Using-SpringBoot-Java-Eureka
+IDE (IntelliJ IDEA, Eclipse, etc.)
